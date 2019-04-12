@@ -1,0 +1,64 @@
+/*
+ * WordPress header removed due to minification.
+ *
+ * The header is added by gulp-header via our gulpfile.
+ *
+ * @see ../gulp/gulpfile.js
+ */
+
+//************************************
+//
+// Library Files
+//
+//************************************
+
+@import "../bower_components/bourbon/app/assets/stylesheets/bourbon";
+@import "base/grid-settings";
+@import "../bower_components/neat/app/assets/stylesheets/neat";
+@import "base/base";
+
+
+//************************************
+//
+// Our Main Site Structure
+//
+//************************************
+
+@import "base/site";
+
+//************************************
+//
+// Templates
+//
+//************************************
+
+// Front Page
+@import "templates/front-page";
+
+// HTML Test Page
+@import "templates/html-test";
+
+// Components Test Page
+@import "templates/components-test";
+
+// React Test Page
+@import "templates/react-test";
+
+
+//************************************
+//
+// Integrations
+//
+//************************************
+
+// Easy Digital Downloads
+@import "integrations/edd";
+
+// WooCommerce
+@import "integrations/woocommerce";
+
+// Beaver Builder
+@import "integrations/beaver-builder";
+
+// Contact Form 7
+@import "integrations/wpcf7";
