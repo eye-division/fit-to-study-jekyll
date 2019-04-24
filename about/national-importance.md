@@ -4,7 +4,9 @@ title: National importance
 date: 2017-03-15T08:08:00+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=36
+permalink: /about/national-importance/
 ---
 [<img class="alignleft wp-image-435 size-medium" src="/wp-content/uploads/2017/03/HoC-report.png?resize=216%2C300&#038;ssl=1" alt="" width="216" height="300" srcset="/wp-content/uploads/2017/03/HoC-report.png?resize=216%2C300&ssl=1 216w, /wp-content/uploads/2017/03/HoC-report.png?w=646&ssl=1 646w" sizes="(max-width: 216px) 100vw, 216px" data-recalc-dims="1" />](https://www.fit-to-study.org/wp-content/uploads/2017/03/SN06836.pdf)Under the reformed National Curriculum, which local authority maintained schools have been required to teach since September 2014, PE remains a compulsory subject at all key stages. Academies and free schools do not have to follow the National Curriculum but are required to provide a broad and balanced curriculum that promotes, among other things, the physical development of pupils.
 

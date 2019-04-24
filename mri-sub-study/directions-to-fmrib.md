@@ -4,7 +4,9 @@ title: Directions to FMRIB
 date: 2017-04-27T15:31:30+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=816
+permalink: /mri-sub-study/directions-to-fmrib/
 ---
 **[<img class="size-medium wp-image-775 alignleft" src="/wp-content/uploads/2017/04/FMRIB-Office.jpg?resize=300%2C154&#038;ssl=1" alt="" width="300" height="154" srcset="/wp-content/uploads/2017/04/FMRIB-Office.jpg?resize=300%2C154&ssl=1 300w, /wp-content/uploads/2017/04/FMRIB-Office.jpg?w=760&ssl=1 760w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />](/wp-content/uploads/2017/04/FMRIB-Office.jpg?ssl=1)Directions to FMRIB, John Radcliffe Hospital**
 

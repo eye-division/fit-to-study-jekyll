@@ -4,7 +4,9 @@ title: Introduction
 date: 2017-03-15T08:07:03+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=26
+permalink: /about/introduction/
 ---
 **Can changing the nature of PE lessons help children do better at school?** This is the key question that the project is aiming to answer.
 

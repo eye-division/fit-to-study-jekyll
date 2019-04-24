@@ -1,0 +1,96 @@
+- title: Home
+  href: /
+  class:
+- title: 'About'
+  href: /about/
+  subcategories:
+    - subtitle: Introduction
+      href: /about/introduction/
+    - subtitle: Objectives
+      href: /about/objectives/
+    - subtitle: Scope
+      href: /about/scope/
+    - subtitle: Methods
+      href: /about/methods/
+    - subtitle: Study area
+      href: /about/study-area/
+    - subtitle: National importance
+      href: /about/national-importance/
+    - subtitle: Our partners
+      href: /about/our-supporters/
+- title: 'Assessments'
+  href: /assessments/
+  subcategories:
+    - subtitle: Fitness assessment
+      href: /assessments/fitness-assessment/
+    - subtitle: Physical activity monitoring
+      href: /assessments/physical-activity-monitoring/
+    - subtitle: 'Questionnaire: about you!'
+      href: /assessments/online-questionnaire/
+    - subtitle: Computer challenges
+      href: /assessments/online-cognitive-assessment/
+- title: 'Brain imaging sub-study'
+  href: /mri-sub-study/
+  subcategories:
+    - subtitle: About MRI
+      href: /mri-sub-study/what-is-mri/
+    - subtitle: Preparing for the scan
+      href: /mri-sub-study/preparing-for-the-scan/
+    - subtitle: Information packs
+      href: /mri-sub-study/information-packs/
+    - subtitle: Brain facts
+      href: /mri-sub-study/brain-facts/
+    - subtitle: FAQs
+      href: /mri-sub-study/faqs/
+    - subtitle: Contact details
+      href: /mri-sub-study/contact-details/
+    - subtitle: Directions to FMRIB
+      href: /mri-sub-study/directions-to-fmrib/
+- title: 'Independent evaluation'
+  href: /independent-evaluation/
+- title: 'Media metions'
+  href: /media-mentions/
+- title: 'Outputs'
+  href: /outputs/
+  subcategories:
+    - subtitle: Information Sheets
+      href: /outputs/project-information-sheets/
+    - subtitle: Newsletters
+      href: /outputs/newsletters/
+    - subtitle: Presentations
+      href: /outputs/presentations/
+    - subtitle: Project events
+      href: /outputs/project-events/
+    - subtitle: Publications
+      href: /outputs/publications/
+    - subtitle: Videos
+      href: /outputs/videos/
+- title: 'Contact'
+  href: /contact/
+- title: 'Meet the team'
+  href: /meet-the-team/
+  subcategories:
+    - subtitle: Heidi Johansen-Berg
+      href: /meet-the-team/heidi-johansen-berg/
+    - subtitle: Helen Dawes
+      href: /meet-the-team/helen-dawes/
+    - subtitle: Nick Beale
+      href: /meet-the-team/nick-beale/
+    - subtitle: Emily Curtis
+      href: /meet-the-team/emily-curtis/
+    - subtitle: Emma Eldridge
+      href: /meet-the-team/emma-eldridge/
+    - subtitle: Andy Meaney
+      href: /meet-the-team/andy-meaney/
+    - subtitle: Emily Plester
+      href: /meet-the-team/emily-plester/
+    - subtitle: Jack Possee
+      href: /meet-the-team/jack-possee/
+    - subtitle: Catherine Wheatley
+      href: /meet-the-team/catherine-wheatley/
+    - subtitle: Piergiorgio Salvan
+      href: /meet-the-team/piergiorgio-salvan/
+    - subtitle: Thomas Wassenaar
+      href: /meet-the-team/thomas-wassenaar/
+    - subtitle: NatCen Social Research
+      href: /meet-the-team/natcen-social-research/

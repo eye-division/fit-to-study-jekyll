@@ -4,7 +4,9 @@ title: Study area
 date: 2017-03-15T08:07:48+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=34
+permalink: /about/study-area/
 ---
 **Fit to Study** has recruited 100 state-funded secondary schools from within a radius of Oxford.
 

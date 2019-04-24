@@ -4,7 +4,9 @@ title: Our partners
 date: 2017-03-15T08:08:13+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=38
+permalink: /about/our-supporters/
 ---
 <h2 style="text-align: center">
   <strong>Project Funders</strong>

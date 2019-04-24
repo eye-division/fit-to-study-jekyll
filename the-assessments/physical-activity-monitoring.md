@@ -4,7 +4,9 @@ title: Physical activity monitoring
 date: 2017-05-16T12:02:24+00:00
 author: Nick Beale
 layout: page
+sidebar: assessments-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=879
+permalink: /assessments/physical-activity-monitoring/
 ---
 [<img class="size-full wp-image-919 alignleft" src="/wp-content/uploads/2017/05/AX3.jpg?resize=238%2C176&#038;ssl=1" alt="" width="238" height="176" data-recalc-dims="1" />](/wp-content/uploads/2017/05/AX3.jpg?ssl=1)
 

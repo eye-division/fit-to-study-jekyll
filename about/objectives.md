@@ -4,7 +4,9 @@ title: Objectives
 date: 2017-03-15T08:07:16+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=28
+permalink: /about/objectives/
 ---
 **Fit to Study** aims to:
 

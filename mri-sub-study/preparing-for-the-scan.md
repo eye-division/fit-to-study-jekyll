@@ -4,7 +4,9 @@ title: Preparing for the scan
 date: 2017-04-13T11:52:40+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: http://live.fit-to-study.org/?page_id=656
+permalink: /mri-sub-study/preparing-for-the-scan/
 ---
 <u>Food / drink</u>
 

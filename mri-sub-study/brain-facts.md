@@ -4,7 +4,9 @@ title: Brain facts
 date: 2017-04-13T11:54:13+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: http://live.fit-to-study.org/?page_id=660
+permalink: /mri-sub-study/brain-facts/
 ---
 The brain is divided up into many different areas. Each region functions in a specific way in order to help us during specific tasks, such as during reading or learning, or watching TV.
 

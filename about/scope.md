@@ -4,7 +4,9 @@ title: Scope
 date: 2017-03-15T08:07:26+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=30
+permalink: /about/scope/
 ---
 **[<img class="wp-image-440 size-medium alignleft" src="/wp-content/uploads/2017/03/blur_edges2.jpg?resize=300%2C200&#038;ssl=1" alt="" width="300" height="200" data-recalc-dims="1" />](https://www.fit-to-study.org/blur_edges2/)Fit to Study** has recruited 100 state-funded secondary schools from within a [radius](https://www.fit-to-study.org/about/study-area/) of Oxford.
 

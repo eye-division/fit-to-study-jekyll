@@ -3,12 +3,14 @@
 
   {% include head.html %}
 
-  <body class="bp-legacy page-template-default page page-parent header-image header-full-width sidebar-content no-js">
+  <body class="bp-legacy page-template-default page page-parent header-image header-full-width sidebar-content no-js {% if page.style %} {{ page.style }}{% endif %}">
 
     {% include header.html %}
 
-    <div class="page--content">
+    <div class="site-inner page--content">
+
         {{ content }}
+
     </div>
 
     {% include footer.html %}

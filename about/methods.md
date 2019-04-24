@@ -4,7 +4,9 @@ title: Methods
 date: 2017-03-15T08:07:37+00:00
 author: fit23y3dmin
 layout: page
+sidebar: about-sidebar.html
 guid: //localhost:3000/?page_id=32
+permalink: /about/methods/
 ---
 [<img class="wp-image-441 size-medium alignleft" src="/wp-content/uploads/2017/03/blur_edges3.jpg?resize=300%2C169&#038;ssl=1" alt="" width="300" height="169" data-recalc-dims="1" />](https://www.fit-to-study.org/blur_edges3/)This research is a randomised controlled study and participating schools have been randomly assigned (by [NatCen Social Research](http://natcen.ac.uk/taking-part/studies-in-field/fit-to-study/about/)) to either an **Intervention Group** (IG) and asked to deliver some new activities in their PE programme, or to a **Control Group** (CG) and asked to continue with their normal PE lessons. For both Groups there are a number of activities for schools to undertake, both at the start, during, and at the end of the study.
 

@@ -4,7 +4,9 @@ title: FAQs
 date: 2017-04-13T11:54:43+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: http://live.fit-to-study.org/?page_id=662
+permalink: /mri-sub-study/faqs/
 ---
   * _Can anyone have a scan?_
 

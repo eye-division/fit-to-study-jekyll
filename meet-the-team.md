@@ -4,6 +4,9 @@ title: Meet the team
 date: 2017-03-15T08:06:20+00:00
 author: fit23y3dmin
 layout: page
+sidebar: team-sidebar.html
+permalink: /meet-the-team/
+style: "meet-the-team darkbg"
 guid: //localhost:3000/?page_id=18
 ---
 <div id='gallery-2' class='gallery galleryid-20 gallery-columns-3 gallery-size-thumbnail'>

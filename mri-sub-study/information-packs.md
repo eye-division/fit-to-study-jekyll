@@ -4,7 +4,9 @@ title: Information packs
 date: 2017-04-13T11:53:41+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: http://live.fit-to-study.org/?page_id=658
+permalink: /mri-sub-study/information-packs/
 ---
 **Recruitment**
 

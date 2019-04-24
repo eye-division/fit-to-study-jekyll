@@ -4,11 +4,14 @@ title: Andy Meaney
 date: 2017-03-24T10:10:08+00:00
 author: fit23y3dmin
 layout: page
+sidebar: team-sidebar.html
+style: "meet-the-team darkbg"
+permalink: /meet-the-team/andy-meaney/
 guid: //localhost:3000/?page_id=110
 ---
 [<img class="alignleft wp-image-161 size-thumbnail" src="/wp-content/uploads/2017/03/cropped-siteicon.png?resize=150%2C150&#038;ssl=1" alt="" width="150" height="150" srcset="/wp-content/uploads/2017/03/cropped-siteicon.png?resize=150%2C150&ssl=1 150w, /wp-content/uploads/2017/03/cropped-siteicon.png?resize=300%2C300&ssl=1 300w, /wp-content/uploads/2017/03/cropped-siteicon.png?resize=270%2C270&ssl=1 270w, /wp-content/uploads/2017/03/cropped-siteicon.png?resize=192%2C192&ssl=1 192w, /wp-content/uploads/2017/03/cropped-siteicon.png?resize=180%2C180&ssl=1 180w, /wp-content/uploads/2017/03/cropped-siteicon.png?resize=32%2C32&ssl=1 32w, /wp-content/uploads/2017/03/cropped-siteicon.png?w=512&ssl=1 512w" sizes="(max-width: 150px) 100vw, 150px" data-recalc-dims="1" />](/wp-content/uploads/2017/03/cropped-siteicon.png?ssl=1)
 
-**Andy Meaney** | Research Associate | Oxford Brookes University
+**Andy Meaney** &#124; Research Associate &#124; Oxford Brookes University
 
 <div>
 </div>

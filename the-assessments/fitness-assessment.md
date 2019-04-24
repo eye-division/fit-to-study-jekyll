@@ -4,7 +4,9 @@ title: Fitness assessment
 date: 2017-05-16T11:56:58+00:00
 author: Nick Beale
 layout: page
+sidebar: assessments-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=868
+permalink: /assessments/fitness-assessment/
 ---
 ### **<u>INFORMATION FOR PARTICIPATING SCHOOLS &#8211; 2018 Update</u>**
 

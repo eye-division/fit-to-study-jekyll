@@ -5,6 +5,8 @@ date: 2017-03-28T13:47:39+00:00
 author: Nick Beale
 layout: page
 guid: http://live.fit-to-study.org/?page_id=309
+sidebar: outputs-sidebar.html
+permalink: /outputs/publications/
 ---
 Here you will find a list of our publications in academic and non-academic journals. We will also take part in conferences and other events to tell people about our results.
 

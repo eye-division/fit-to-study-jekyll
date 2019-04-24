@@ -4,7 +4,9 @@ title: Contact details
 date: 2017-04-13T11:55:08+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: http://live.fit-to-study.org/?page_id=664
+permalink: /mri-sub-study/contact-details/
 ---
 [<img class="size-medium wp-image-1050 alignleft" src="/wp-content/uploads/2017/06/fmrib-logo.png?resize=300%2C227&#038;ssl=1" alt="" width="300" height="227" data-recalc-dims="1" />](/wp-content/uploads/2017/06/fmrib-logo.png?ssl=1)
 

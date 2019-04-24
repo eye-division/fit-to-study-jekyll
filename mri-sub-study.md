@@ -4,7 +4,9 @@ title: Brain imaging sub-study
 date: 2017-03-28T13:23:54+00:00
 author: Nick Beale
 layout: page
+sidebar: brain-sidebar.html
 guid: http://live.fit-to-study.org/?page_id=272
+permalink: /mri-sub-study/
 ---
 <img class="size-medium wp-image-211 alignleft" src="/wp-content/uploads/2017/03/pic2.png?resize=300%2C225" alt="" width="300" height="225" srcset="/wp-content/uploads/2017/03/pic2.png?resize=300%2C225&ssl=1 300w, /wp-content/uploads/2017/03/pic2.png?w=320&ssl=1 320w" sizes="(max-width: 300px) 100vw, 300px" data-recalc-dims="1" />
 

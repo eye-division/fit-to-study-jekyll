@@ -4,7 +4,9 @@ title: 'Questionnaire: about you!'
 date: 2017-05-16T12:03:01+00:00
 author: Nick Beale
 layout: page
+sidebar: assessments-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=881
+permalink: /assessments/online-questionnaire/
 ---
 ### **<u>INFORMATION FOR PARTICIPATING SCHOOLS &#8211; 2018 Update</u>**
 

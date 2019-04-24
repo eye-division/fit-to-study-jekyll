@@ -4,7 +4,9 @@ title: Computer challenges
 date: 2017-05-16T12:03:52+00:00
 author: Nick Beale
 layout: page
+sidebar: assessments-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=883
+permalink: /assessments/online-cognitive-assessment/
 ---
 ### **<u>INFORMATION FOR PARTICIPATING SCHOOLS &#8211; 2018 Update</u>**
 

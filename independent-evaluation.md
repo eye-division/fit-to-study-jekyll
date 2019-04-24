@@ -4,7 +4,9 @@ title: Independent Evaluation
 date: 2017-04-19T10:04:17+00:00
 author: Nick Beale
 layout: page
+sidebar: default-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=705
+permalink: /independent-evaluation/
 ---
 [<img class="size-medium wp-image-440 alignleft" src="/wp-content/uploads/2017/03/blur_edges2.jpg?resize=300%2C200&#038;ssl=1" alt="" width="300" height="200" data-recalc-dims="1" />](/wp-content/uploads/2017/03/blur_edges2.jpg?ssl=1)
 

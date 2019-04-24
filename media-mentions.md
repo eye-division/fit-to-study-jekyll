@@ -4,7 +4,9 @@ title: Media mentions
 date: 2017-03-15T08:06:40+00:00
 author: fit23y3dmin
 layout: page
+sidebar: default-sidebar.html
 guid: //localhost:3000/?page_id=22
+permalink: /media-mentions/
 ---
 **February 2017**
 
