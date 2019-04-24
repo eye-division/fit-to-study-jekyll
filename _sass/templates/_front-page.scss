@@ -88,12 +88,12 @@
 	.blue-bg {
 		@include edge-to-edge;
 		text-align: center;
-		background: url(images/white_strip_bottom.png) bottom no-repeat $brand-color;
+		background: url(/assets/images/white_strip_bottom.png) bottom no-repeat $brand-color;
 		padding-bottom: 1em;
 	}
 	.slider {
 		padding: 2em;
-		background: url(images/white_strip_top.png) no-repeat $brand-color;
+		background: url(/assets/images/white_strip_top.png) no-repeat $brand-color;
 		@include media( $medium-screen-up ) {
 			@include outer-container;
 		}

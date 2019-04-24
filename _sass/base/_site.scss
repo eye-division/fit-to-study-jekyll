@@ -147,7 +147,7 @@ address {
 	.site-inner {
 		// default colour blue
 		padding-top: 1.5em;
-		background: url(images/white_strip_top.png) no-repeat $brand-color;
+		background: url(/assets/images/white_strip_top.png) no-repeat $brand-color;
 		background-color: $brand-color;
 		color: $white;
 		a {
@@ -419,7 +419,7 @@ address {
 		text-transform: uppercase;
 		font-weight: bold;
 		// content: "Sticky Post";
-		content: url('images/icons/pushpin.svg');
+		content: url('/assets/images/icons/pushpin.svg');
 		margin-bottom: $base-spacing;
 	}
 }

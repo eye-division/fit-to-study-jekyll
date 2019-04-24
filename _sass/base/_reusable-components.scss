@@ -72,7 +72,7 @@ $success-color: #e6efc2 !default;
   $hero-background-bottom: $white;
   $hero-color: white;
   $gradient-angle: 10deg;
-  $hero-image: 'images/activity_strip.jpg';
+  $hero-image: '/assets/images/activity_strip.jpg';
 
   @include background(url($hero-image), linear-gradient($gradient-angle, $hero-background-bottom, $hero-background-top), no-repeat $hero-background-top scroll);
   background-color: $white;

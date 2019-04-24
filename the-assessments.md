@@ -6,6 +6,7 @@ author: Nick Beale
 layout: page
 sidebar: assessments-sidebar.html
 guid: https://www.fit-to-study.org/?page_id=865
+permalink: /the-assessments/
 ---
 Click on the images below, or menu on the left, to find detail on the assessments we are asking schools to administer:
 
