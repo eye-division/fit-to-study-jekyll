@@ -8,13 +8,9 @@ guid: https://www.fit-to-study.org/?page_id=1102
 sidebar: default-sidebar.html
 permalink: /interventions/
 ---
-**To sign-up / go to &#8216;The Forum&#8217; please click [here](https://www.fit-to-study.org/fit-study-intervention-forum/)**
-
-* * *
-
 **The Intervention explained.** The 10 minute video below explains the rationale for the &#8216;Fit to Study&#8217; project, and describes &#8216;The Intevention&#8217; that we are asking our 50 &#8216;Intervention&#8217; Schools to deliver from September 2017 to July 2018.
 
-
+<iframe src="https://player.vimeo.com/video/226875404" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 **OTHER RESOURCES:**
 
@@ -43,19 +39,19 @@ permalink: /interventions/
 **Video clips**
 
   * The 10 minute &#8216;warm-up&#8217; in full &#8211; Take1
-
+<iframe src="https://player.vimeo.com/video/225902505" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
   * The 10 minute &#8216;warm-up&#8217; in full &#8211; Take2
-
-
+<iframe src="https://player.vimeo.com/video/225865576" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
   * Infusion 1: Fast arms
-
-
+<iframe src="https://player.vimeo.com/video/225864652" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
   * Infusion 2: Dynamic balance
-
-
+<iframe src="https://player.vimeo.com/video/225865071" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
   * Infusion 3: Speed
+
+<iframe src="https://player.vimeo.com/video/225865347" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
