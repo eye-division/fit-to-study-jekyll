@@ -5,6 +5,8 @@ date: 2017-07-04T09:40:20+00:00
 author: fit23y3dmin
 layout: page
 guid: https://www.fit-to-study.org/?page_id=1102
+sidebar: default-sidebar.html
+permalink: /interventions/
 ---
 **To sign-up / go to &#8216;The Forum&#8217; please click [here](https://www.fit-to-study.org/fit-study-intervention-forum/)**
 
