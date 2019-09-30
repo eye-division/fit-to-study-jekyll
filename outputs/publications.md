@@ -12,4 +12,5 @@ Here you will find a list of our publications in academic and non-academic journ
 
 Check back regularly to read and download these publications.
 
-  * Accepted for publication in Trials, Feb. 2019: Effects of a programme of vigorous physical activity during secondary school physical education on academic performance, fitness, cognition, mental health and the brain of adolescents (Fit to Study): study protocol for a cluster-randomised trial [TRLS-D-18-00649R1]
+  * Effects of a programme of vigorous physical activity during secondary school physical education on academic performance, fitness, cognition, mental health and the brain of adolescents (Fit to Study): study protocol for a cluster-randomised trial [<a href="assets/Fit-to-Study_ProtocolPaper_2019.pdf">Download report as PDF</a> | <a href="https://trialsjournal.biomedcentral.com/articles/10.1186/s13063-019-3279-6">TRLS-D-18-00649R1</a>] 
+  * Fit to Study: Evaluation Report (NatCen, September 2019) <a href="assets/FtS%20Evaluation%20Report_Sept2019.pdf">Download report as PDF</a>
