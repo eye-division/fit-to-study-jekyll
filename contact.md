@@ -12,7 +12,7 @@ For more information on the ‘**Fit to Study**’ project please contact us usi
 
 E-mail: <fittostudy@brookes.ac.uk>
 
-[<i class="fa fa-2x fa-twitter"></i> Follow us on Twitter](https://twitter.com/Fit_to_Study)
+<i class="fa fa-2x fa-twitter"></i> [Follow us on Twitter](https://twitter.com/Fit_to_Study)
 
 <div role="form" class="wpcf7" id="wpcf7-f149-o1" lang="en-GB" dir="ltr">
   <div class="screen-reader-response">
