@@ -8,8 +8,6 @@ guid: '//localhost:3000/?page_id=24'
 permalink: /investigators/
 ---
 
-**‘Fit to Study’ Investigators**
-
 The following investigators were involved in planning and executing the ‘Fit to Study’ project. In addition, many collaborators have contributed to specific subprojects making use of trial data. The Independent Evaluators for the trial were [NatCen Social Research](https://www.fit-to-study.org/independent-evaluation/).
 
 **Principal Investigators**
